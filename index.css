@@ -57,13 +57,13 @@
 
 /* Specific styles for Up, Down, Left, Right alignment */
 .up, .down {
-    width: 60px;
-    height: 60px;
-    font-size: 30px;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
 }
 
 .left, .right {
-    width: 60px;
-    height: 60px;
-    font-size: 30px;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
 }
